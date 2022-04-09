@@ -1,0 +1,47 @@
+.head li{
+    display: inline-block;
+    color white;
+}
+
+body{
+     background-color :#15172a
+
+}
+
+html {
+    font-family: system-ui;
+}
+.img_container{
+    text-align: center;
+}
+.audio{
+    text-align: center;
+}
+
+.trending{
+    float: right;
+    color: #3bc4e3;
+}
+.casi{
+    text-align: center;
+}
+.casi{
+    color: blue;
+}
+.audio {
+    color: white;
+}
+.casi {
+    color: white;
+}
+.nav li {
+    color: white;
+    display: inline-block;
+}
+.trending1{
+    float: right;
+}
+.blue {
+    color: #3bc4e3;
+    font-weight: 500;
+}
